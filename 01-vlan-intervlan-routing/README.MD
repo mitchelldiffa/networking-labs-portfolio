@@ -68,3 +68,18 @@ Tools Used
 Huawei eNSP
 
 Huawei VRP CLI
+
+
+
+
+Evidence
+
+Network Topology
+
+Connectivity Testing
+
+The lab was verified using ICMP ping tests between the configured VLANs and their gateways.
+
+Router Configuration
+
+The router was configured using subinterfaces for VLAN 10 and VLAN 20 to provide inter-VLAN routing.
