@@ -73,6 +73,8 @@ DHCP Snooping Configuration
 
 PC1 DHCP Configuration
 
+PC2 DHCP Configuration 
+
 Connectivity Test
 
 Skills Demonstrated
